@@ -4,19 +4,19 @@
 
 \# Paper:
 
-&nbsp; https://ieeexplore.ieee.org/abstract/document/10963906
+  https://ieeexplore.ieee.org/abstract/document/10963906
 
 
 
 \# To test the trained model, run:
 
-&nbsp; python test.py
+  python test.py
 
 
 
 \# To train a new model, run:
 
-&nbsp; python train.py
+  python train.py
 
 
 
@@ -28,24 +28,22 @@
 
 @ARTICLE{Bian2025,
 
-&nbsp; author={Bian, Jintang and Lin, Yixiang and Xie, Xiaohua and Wang, Chang-Dong and Yang, Lingxiao and Lai, Jian-Huang and Nie, Feiping},
+  author={Bian, Jintang and Lin, Yixiang and Xie, Xiaohua and Wang, Chang-Dong and Yang, Lingxiao and Lai, Jian-Huang and Nie, Feiping},
 
-&nbsp; journal={IEEE Transactions on Neural Networks and Learning Systems}, 
+  journal={IEEE Transactions on Neural Networks and Learning Systems},
 
-&nbsp; title={Multilevel Contrastive Multiview Clustering With Dual Self-Supervised Learning}, 
+  title={Multilevel Contrastive Multiview Clustering With Dual Self-Supervised Learning},
 
-&nbsp; year={2025},
+  year={2025},
 
-&nbsp; volume={36},
+  volume={36},
 
-&nbsp; number={6},
+  number={6},
 
-&nbsp; pages={10422-10436},
+  pages={10422-10436},
 
-&nbsp; doi={10.1109/TNNLS.2025.3552969}
+  doi={10.1109/TNNLS.2025.3552969}
 
 }
-
-
 
 # MCMC
